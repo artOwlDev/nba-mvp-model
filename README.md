@@ -1,6 +1,6 @@
 This project focuses on analyzing NBA player data(cleaning, normalziing etc.) and predicting who's going to be the MVP for the 2024 year.
 
-### Overview
+## Overview
 
 The goal of this project is to leverage historical NBA statistics to predict who is most likely to win the MVP award. The workflow includes:
 
@@ -10,11 +10,17 @@ Data Cleaning & Normalization – Processed and standardized the data to ensure 
 
 Modeling & Prediction – Built a predictive model to estimate MVP likelihoods based on player statistics.
 
-### Snapshots
+## Snapshots
 
+#### Correlation of individual statistics on being the MVP
+![Correlation of Statistics On Being MVP](https://github.com/user-attachments/assets/0ebfee24-7db9-41a4-bee8-55c7e4f4f532)
 
+#### How has scoring changed throughout the years?
+![How has scoring changed throughout the years](https://github.com/user-attachments/assets/6b0d27dd-6448-4108-a6b8-df141f10dec9)
 
-### Technologies & Libraries
+####
+
+## Technologies & Libraries
 
 Python 3.x
 
@@ -24,7 +30,7 @@ Scikit-learn (Modeling & Prediction)
 
 Matplotlib (Data Visualization)
 
-### Run
+## Run
 
 Clone the repository:
 
@@ -32,7 +38,7 @@ git clone https://github.com/artOwlDev/nba-model.git
 
 Open main.ipynb in Jupyter Notebook or VSCode.
 
-### Insights
+## Insights
 
 Normalization and cleaning significantly improved model accuracy.
 
