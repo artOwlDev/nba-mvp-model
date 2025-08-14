@@ -18,6 +18,10 @@ Modeling & Prediction – Built a predictive model to estimate MVP likelihoods b
 #### How has scoring changed throughout the years?
 ![How has scoring changed throughout the years](https://github.com/user-attachments/assets/6b0d27dd-6448-4108-a6b8-df141f10dec9)
 
+#### MVP data from the 2022-2023 season.
+<img width="902" height="651" alt="Screenshot 2025-08-14 at 8 12 07 PM" src="https://github.com/user-attachments/assets/3b58d18e-0d6a-42ad-95c7-376d38311a57" />
+
+
 ####
 
 ## Technologies & Libraries
