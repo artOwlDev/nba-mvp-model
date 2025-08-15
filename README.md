@@ -1,4 +1,6 @@
-This project focuses on analyzing NBA player data(cleaning, normalziing etc.) and predicting who's going to be the MVP for the 2024 year.
+This project focuses on analyzing NBA player data(cleaning, normalziing etc.) and predicting who's going to be the MVP.
+
+The model incrementally uses past data to predict the next season's data and so on.
 
 ## Overview
 
