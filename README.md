@@ -1,4 +1,4 @@
-This project focuses on analyzing NBA player data(cleaning, normalziing etc.) and predicting who's going to be the MVP.
+This project focuses on analyzing NBA player data(cleaning, normalizing etc.) and predicting who's going to be the MVP.
 
 The model incrementally uses past data to predict the next season's data and so on.
 
@@ -6,7 +6,7 @@ The model incrementally uses past data to predict the next season's data and so 
 
 The goal of this project is to leverage historical NBA statistics to predict who is most likely to win the MVP award. The workflow includes:
 
-Data Acquisition – Scapred data from https://www.basketball-reference.com/
+Data Acquisition – Scraped data from https://www.basketball-reference.com/
 
 Data Cleaning & Normalization – Processed and standardized the data to ensure consistency and reliability for modeling.
 
